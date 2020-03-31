@@ -1,4 +1,4 @@
-# Process Scheduling Algorithms
+# 💻 Process Scheduling Algorithms
 Algorithms Schedulers developed in Python.
 
 ## More Informations
